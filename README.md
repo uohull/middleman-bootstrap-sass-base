@@ -5,7 +5,7 @@ A Middleman base project template. Built with Twitter Bootstrap, Sass and config
 
 Prerequisits
 
-Ruby
+Ruby,
 Git
 
 Installation/Setup
