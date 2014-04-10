@@ -1,10 +1,12 @@
-# Created by http://www.gitignore.io
-
 ### Linux ###
 *~
 
 # KDE directory preferences
 .directory
+
+
+### Sass ###
+.sass-cache
 
 
 ### Ruby ###
@@ -29,6 +31,8 @@ build/
 /_yardoc/
 /doc/
 /rdoc/
+/.cache/
+../.cache
 
 ## Environment normalisation:
 /.bundle/
@@ -44,5 +48,10 @@ build/
 .rvmrc
 
 
-### Sass ###
-.sass-cache
+### SublimeText ###
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
