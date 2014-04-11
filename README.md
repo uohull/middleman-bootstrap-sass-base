@@ -14,4 +14,4 @@ gem install middleman
 
 git clone git@github.com:uohull/middleman-bootstrap-sass-base.git ~/.middleman/middleman-bootstrap-sass-base
 
-middleman init testing --template=middleman-bootstrap-sass-base
+middleman init [project_name] --template=middleman-bootstrap-sass-base
