@@ -13,3 +13,5 @@ gem 'middleman-deploy', '~> 0.1.4'
 gem 'slim', '~> 2.0.2'
 
 gem 'bootstrap-sass', '~> 3.1.0'
+
+gem 'therubyracer', '~> 0.12.1'
